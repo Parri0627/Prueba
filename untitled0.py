@@ -6,3 +6,4 @@ Created on Sun Apr  2 19:52:12 2023
 """
 
 print('Tus muertos')
+print('era broma')
